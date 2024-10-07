@@ -9,3 +9,4 @@ __pycache__/
 Thumbs.db
 .vscode
 **/*.xlsx
+src/.env
